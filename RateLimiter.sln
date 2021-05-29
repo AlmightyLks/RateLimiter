@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimiter", "RateLimiter\RateLimiter.csproj", "{08A51B70-617F-4F0C-88F0-342B8C66CAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimiter.Tests", "RateLimiter.Tests\RateLimiter.Tests.csproj", "{A6FCB47D-FC9A-453B-AF8C-4C6CE684DF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A51B70-617F-4F0C-88F0-342B8C66CAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A51B70-617F-4F0C-88F0-342B8C66CAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A51B70-617F-4F0C-88F0-342B8C66CAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A51B70-617F-4F0C-88F0-342B8C66CAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FCB47D-FC9A-453B-AF8C-4C6CE684DF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FCB47D-FC9A-453B-AF8C-4C6CE684DF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FCB47D-FC9A-453B-AF8C-4C6CE684DF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FCB47D-FC9A-453B-AF8C-4C6CE684DF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D403E04-8BC0-48FD-83AF-F7383E943DF6}
+	EndGlobalSection
+EndGlobal
