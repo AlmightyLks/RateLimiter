@@ -10,7 +10,6 @@ namespace RateLimiter
         public ulong Rate { get; private set; }
 
         private TimeSpan _timeSpanRate;
-
         private TransientCounter _invokeCounter;
 
         public RateLimit(ulong rate, TimeSpan timeSpan)
